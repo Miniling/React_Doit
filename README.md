@@ -12,3 +12,4 @@ cmd에서
 
 3. Project 생성
 > create-react-app (project name)
+
