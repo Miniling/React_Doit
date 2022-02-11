@@ -4,7 +4,7 @@ Do it!
 React Programming Basic
 
 1. Node.js 설치
-Install : https://nodejs.org/en/
+>Install : https://nodejs.org/en/
 
 2. React-app 설치
 cmd에서
