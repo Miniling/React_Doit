@@ -3,13 +3,12 @@
 Do it!
 React Programming Basic
 
-Install : https://github.com/coreybutler/nvm-windows/releases
-nvm-setup.zip
+1. Node.js 설치
+Install : https://nodejs.org/en/
 
-Check Version : nvm -v
-Install : nvm install (version num)
-Use : nvm use (version num)
-=> 에러 발생 시, Windows PowerShell을 관리자 권한으로 실행하여 작업.
+2. React-app 설치
+cmd에서
+> npm install -g create-react-app
 
-Install yarn : npm install -g yarn
-Create React : yarn create react-app (project name) --scripts-version 2.1.7
+3. Project 생성
+> create-react-app (project name)
