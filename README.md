@@ -7,7 +7,7 @@ React Programming Basic
 >Install : https://nodejs.org/en/
 
 2. React-app 설치
- cmd실행
+cmd실행
 >> npm install -g create-react-app
 
 3. Project 생성
