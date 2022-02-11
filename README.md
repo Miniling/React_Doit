@@ -17,3 +17,4 @@ cmd실행
 3. Project 생성
 > create-react-app (project name)
 
+(* 프로젝트 이름에 대문자 불가능!!)
