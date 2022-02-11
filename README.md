@@ -1,7 +1,7 @@
-# React_Doit
+# React_Practice
 
 Do it!
-React Programming Basic
+React Programming Basic.
 
 1. Node.js 설치
 
