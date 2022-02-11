@@ -8,8 +8,8 @@ React Programming Basic
 
 2. React-app 설치
 cmd에서
-> npm install -g create-react-app
+>> npm install -g create-react-app
 
 3. Project 생성
-> create-react-app (project name)
+>> create-react-app (project name)
 
