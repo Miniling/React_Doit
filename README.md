@@ -18,3 +18,8 @@ cmd실행
 > create-react-app (project name)
 
 (* 프로젝트 이름에 대문자 불가능!!)
+
+
+4. Visual Studio Code에서 실행
+
+폴더 열기-생성한 프로젝트 폴더-열기
