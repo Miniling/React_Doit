@@ -4,18 +4,24 @@ Do it!
 React Programming Basic.
 
 1. Node.js 설치
-Install : https://nodejs.org/en/
-
+   Install : https://nodejs.org/en/
 
 2. React-app 설치
-cmd실행
-> npm install -g create-react-app
+   cmd실행
 
+   > npm install -g create-react-app
 
 3. Project 생성
-> create-react-app (project name)
-(* 프로젝트 이름에 대문자 불가능!!)
 
+   > create-react-app (project name)
+   > (\* 프로젝트 이름에 대문자 불가능!!)
 
 4. Visual Studio Code에서 실행
-폴더 열기-생성한 프로젝트 폴더-열기
+   폴더 열기-생성한 프로젝트 폴더-열기
+
+5. Reactjs code snippets
+
+   > 자주 사용하는 코드 뭉치를 자동으로 완성해줌
+
+6. Prettier
+   > 코드의 줄바꿈 등의 스타일을 자동으로 변환해줌
