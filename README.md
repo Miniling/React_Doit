@@ -23,3 +23,6 @@ cmd실행
 4. Visual Studio Code에서 실행
 
 폴더 열기-생성한 프로젝트 폴더-열기
+
+5. Project 실행
+> npm start
